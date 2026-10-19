@@ -16,4 +16,4 @@ n8n · generative AI tools (Claude, OpenAI)
 
 French · English · Spanish · Mandarin Chinese
 
-[Events portfolio](https://camillegaidier.github.io/events-portfolio/) · [LinkedIn](https://www.linkedin.com/in/camillegaidier)
+[Events portfolio](https://github.com/camillegaidier/events-portfolio) · [LinkedIn](https://www.linkedin.com/in/camillegaidier)
