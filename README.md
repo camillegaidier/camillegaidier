@@ -1,16 +1,19 @@
-## Hi there 👋
+# Camille Gaidier
 
-<!--
-**camillegaidier/camillegaidier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Master in Management student at HEC Paris, working at the intersection of health, prevention and AI.
 
-Here are some ideas to get you started:
+## What I am working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Human Layer** (MedInTechs 2027): co-lead of a 24-hour defence & health hackathon on the health of firefighters, soldiers and doctors, with MedInTechs, MyTwin Lab, HEC IA and MedX.
+- **Traditional Chinese Medicine education**: an automated pipeline that turns TCM knowledge into bilingual educational content. See [tcm-content-pipeline](https://github.com/camillegaidier/tcm-content-pipeline).
+- **HEC IA and MedX**: Head of AI & Consulting at HEC IA, Head of Events at MedX, the healthcare society of HEC Paris.
+
+## Tools I build with
+
+n8n · generative AI tools (Claude, OpenAI)
+
+## Languages
+
+French · English · Spanish · Mandarin Chinese
+
+[LinkedIn](https://www.linkedin.com/in/camillegaidier)
